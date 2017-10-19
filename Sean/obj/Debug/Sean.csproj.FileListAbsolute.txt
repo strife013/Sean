@@ -1,0 +1,4 @@
+D:\013\GitSean\Sean\bin\Debug\Sean.dll
+D:\013\GitSean\Sean\bin\Debug\Sean.pdb
+D:\013\GitSean\Sean\obj\Debug\Sean.dll
+D:\013\GitSean\Sean\obj\Debug\Sean.pdb
